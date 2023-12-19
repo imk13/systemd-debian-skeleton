@@ -1,3 +1,9 @@
+systemd-demo (0.0.2) xenial; urgency=medium
+
+  * Build debian packages with project files dir
+
+ -- Mukesh Kumar <imkx13@gmail.com>  Tue Dec 19 15:35:59 2023 +0530
+
 systemd-demo (0.0.1) xenial; urgency=low
 
   * Initial implementation
